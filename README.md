@@ -1,0 +1,2 @@
+# Python-Project
+The housing society has provided us with a comprehensive dataset named "Final_Data.csv," which contains essential information about its residents, flats, confirmed member and donation details. Lets begin with loading the data and getting the basic overview of data. Also, perform data quality checks by identifying missing values, checking the data types, finding the unique values and the descriptive statistics.
